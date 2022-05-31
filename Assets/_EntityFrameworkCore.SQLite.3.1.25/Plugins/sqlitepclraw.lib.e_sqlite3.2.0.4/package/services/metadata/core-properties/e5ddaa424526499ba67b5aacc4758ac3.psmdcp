@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
+  <dc:creator>Eric Sink</dc:creator>
+  <dc:description>This package contains platform-specific native code builds of SQLite for use with SQLitePCLRaw.  To use this, you need SQLitePCLRaw.core as well as one of the SQLitePCLRaw.provider.* packages.  Convenience packages are named SQLitePCLRaw.bundle_*.</dc:description>
+  <dc:identifier>SQLitePCLRaw.lib.e_sqlite3</dc:identifier>
+  <version>2.0.4</version>
+  <keywords>sqlite;xamarin</keywords>
+  <lastModifiedBy>NuGet.Build.Tasks.Pack, Version=5.7.0.7, Culture=neutral, PublicKeyToken=31bf3856ad364e35;</lastModifiedBy>
+</coreProperties>
