@@ -1,5 +1,5 @@
 {
-    "name": "Microsoft.EntityFrameworkCore.Proxies",
+    "name": "Microsoft.EntityFrameworkCore.Proxies.3.1.25",
     "displayName": "Entity Framework Core Proxies 3.1.25",
 	"author": { "name": "Ivan Murzak", "url": "https://github.com/IvanMurzak" },
     "version": "1.0.0",
