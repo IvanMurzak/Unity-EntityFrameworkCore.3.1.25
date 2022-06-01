@@ -1,4 +1,4 @@
-[![openupm](https://img.shields.io/npm/v/Unity-EntityFrameworkCore.Proxies.3.1.25?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/Unity-EntityFrameworkCore.Proxies.3.1.25/)
+[![openupm](https://img.shields.io/npm/v/microsoft.entityframeworkcore.proxies.3.1.25?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/microsoft.entityframeworkcore.proxies.3.1.25/)
 
 # Unity-EntityFrameworkCore.Proxies 3.1.25 (.NET Standard 2.0)
 Pack of required DLLs to work with EntityFrameworkCore.Proxies 3.1.25 in Unity 2020 or newer. This is not a wrapper, only native DLLs from NuGet, combined into single NPM package for ease install and usage. The version 3.1.25 is old, but it supported by Unity 2020. If you want to use EntityFrameworkCore 5.0.0 you have to use Unity 2021 or newer, this pack of DLLs won't work in that case. Need to use another one.
@@ -16,19 +16,8 @@ DLLs are splited to three dedicated packages, each one can be installed as UPM p
 2. Unity Api Compatibility Level set to `.NET Standard 2.0`
 3. Install packages as listed below
 
-### Microsoft.EntityFrameworkCore 3.1.25 (Net Standard 2.0)
-```
-openupm add Microsoft.EntityFrameworkCore.3.1.25
-```
 
-
-### Microsoft.EntityFrameworkCore.Proxies 3.1.25 (Net Standard 2.0)
+### Microsoft.EntityFrameworkCore.Proxies 3.1.25 (.NET Standard 2.0)
 ```
-openupm add Microsoft.EntityFrameworkCore.Proxies.3.1.25
-```
-
-
-### Microsoft.EntityFrameworkCore.SQLite 3.1.25 (Net Standard 2.0)
-```
-openupm add Microsoft.EntityFrameworkCore.SQLite.3.1.25
+openupm add microsoft.entityframeworkcore.proxies.3.1.25
 ```
