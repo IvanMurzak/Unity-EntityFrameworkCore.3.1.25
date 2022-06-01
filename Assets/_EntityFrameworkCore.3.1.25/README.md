@@ -4,6 +4,8 @@ Pack of required DLLs to work with EntityFrameworkCore 3.1.25 in Unity 2020 or n
 # What is it?
 EntityFrameworkCore is very powerful tool for working with data, such as saving ingame progress or any other data in SQL tables. EFCore provides ability to use `Code First` feature for avoiding SQL queries and work with C# classes, properties and LINQ. Supported migrations and many more cool stuff which you may read at official [EF Core page](https://docs.microsoft.com/en-us/ef/core/)
 
+This package is a part of a [packages bundle](https://github.com/IvanMurzak/Unity-EntityFrameworkCore.3.1.25#readme).
+
 # How to install
 DLLs are splited to three dedicated packages, each one can be installed as UPM package using command line. 
 
