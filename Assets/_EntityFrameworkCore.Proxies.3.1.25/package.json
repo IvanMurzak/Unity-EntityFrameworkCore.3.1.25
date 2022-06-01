@@ -6,6 +6,6 @@
     "unity": "2020.1",
     "description": "Pack of required DLLs for .NET Standard 2.0 EntityFrameworkCore Proxies 3.1.25",
 	"dependencies": {
-      "microsoft.entityframeworkcore.3.1.25": "0.0.1"
+      "microsoft.entityframeworkcore.3.1.25": "1.0.0"
     }
 }
