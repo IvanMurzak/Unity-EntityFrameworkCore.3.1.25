@@ -1,3 +1,5 @@
+![License](https://img.shields.io/github/license/IvanMurzak/Unity-EntityFrameworkCore.3.1.25) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
 [![openupm](https://img.shields.io/npm/v/microsoft.entityframeworkcore.3.1.25?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/microsoft.entityframeworkcore.3.1.25/) - Core
 
 [![openupm](https://img.shields.io/npm/v/microsoft.entityframeworkcore.proxies.3.1.25?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/microsoft.entityframeworkcore.proxies.3.1.25/) - Proxies
