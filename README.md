@@ -1,12 +1,9 @@
 ![License](https://img.shields.io/github/license/IvanMurzak/Unity-EntityFrameworkCore.3.1.25) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-[![openupm](https://img.shields.io/npm/v/microsoft.entityframeworkcore.3.1.25?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/microsoft.entityframeworkcore.3.1.25/) - Core
-
-[![openupm](https://img.shields.io/npm/v/microsoft.entityframeworkcore.proxies.3.1.25?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/microsoft.entityframeworkcore.proxies.3.1.25/) - Proxies
-
-[![openupm](https://img.shields.io/npm/v/microsoft.entityframeworkcore.sqlite.3.1.25?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/microsoft.entityframeworkcore.sqlite.3.1.25/) - SQLite
-
 # Unity-EntityFrameworkCore 3.1.25 (.NET Standard 2.0)
+
+> ⚠️ Deprecated - use [Unity-EFCore-SQLite](https://github.com/IvanMurzak/Unity-EFCore-SQLite) instead.
+
 Pack of required DLLs to work with EntityFrameworkCore 3.1.25 in Unity 2020 or newer. This is not a wrapper, only native DLLs from NuGet, combined into single NPM package for ease install and usage. The version 3.1.25 is old, but it supported by Unity 2020. If you want to use EntityFrameworkCore 5.0.0 you have to use Unity 2021 or newer, this pack of DLLs won't work in that case. Need to use another one.
 
 # What is it?
@@ -22,18 +19,18 @@ DLLs are splited to three dedicated packages, each one can be installed as UPM p
 
 ### Microsoft.EntityFrameworkCore 3.1.25 (.NET Standard 2.0)
 ```
-openupm add microsoft.entityframeworkcore.3.1.25
+openupm add microsoft.entityframeworkcore
 ```
 
 
 ### Microsoft.EntityFrameworkCore.Proxies 3.1.25 (.NET Standard 2.0)
 ```
-openupm add microsoft.entityframeworkcore.proxies.3.1.25
+openupm add microsoft.entityframeworkcore.proxies
 ```
 
 
 ### Microsoft.EntityFrameworkCore.SQLite 3.1.25 (.NET Standard 2.0)
 ```
-openupm add microsoft.entityframeworkcore.sqlite.3.1.25
+openupm add microsoft.entityframeworkcore.sqlite
 ```
 
